@@ -1,4 +1,4 @@
-Sintaxis y semántica de los Lenguajes<br>
+# Sintaxis y semántica de los Lenguajes
 Curso: K2006<br>
 Año de cursada: 2023<br>
 Legajo: 171.502-1<br>
